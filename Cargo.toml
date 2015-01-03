@@ -6,6 +6,7 @@ description = "utmp(x) file parser."
 homepage = "https://github.com/limeburst/utmp-rust"
 repository = "https://github.com/limeburst/utmp-rust"
 readme = "README.md"
+license = "MIT"
 
 [dependencies]
 time = "*"
