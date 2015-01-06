@@ -3,7 +3,7 @@ extern crate time;
 use time::Timespec;
 use std::io::{File, SeekStyle};
 
-#[deriving(FromPrimitive)]
+#[derive(FromPrimitive)]
 pub enum UtmpxRecordType {
     Empty,
     RunLevel,
