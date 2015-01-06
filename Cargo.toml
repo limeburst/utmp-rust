@@ -1,6 +1,6 @@
 [package]
 name = "utmp"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Jihyeok Seo <me@limeburst.net>"]
 description = "utmp(x) file parser."
 homepage = "https://github.com/limeburst/utmp-rust"
